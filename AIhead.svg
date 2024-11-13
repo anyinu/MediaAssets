@@ -5,9 +5,32 @@
    viewBox="0 0 924.75 992.46"
    version="1.1"
    id="svg246"
+   sodipodi:docname="AIhead.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview535"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.23779295"
+     inkscape:cx="462.5873"
+     inkscape:cy="496.23001"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg246" />
   <defs
      id="defs77">
     <linearGradient
@@ -520,7 +543,7 @@
   </defs>
   <g
      id="g"
-     transform="translate(33.844446,-26.879142)">
+     transform="translate(4.4070725,53.0223)">
     <g
        id="h">
       <g
@@ -802,11 +825,11 @@
       <g
          id="bb">
         <polygon
-           points="277.57,228 283.9,242.24 306.06,257.01 308.69,269.67 376.91,304.13 415.41,255.07 374.63,218.51 342.98,213.76 323.46,194.77 305.53,194.77 "
+           points="415.41,255.07 374.63,218.51 342.98,213.76 323.46,194.77 305.53,194.77 277.57,228 283.9,242.24 306.06,257.01 308.69,269.67 376.91,304.13 "
            style="fill:url(#bc)"
            id="polygon195" />
         <polygon
-           points="644.01,228 637.68,242.24 615.53,257.01 612.89,269.67 544.67,304.13 506.17,255.07 546.95,218.51 578.6,213.76 598.12,194.77 616.05,194.77 "
+           points="506.17,255.07 546.95,218.51 578.6,213.76 598.12,194.77 616.05,194.77 644.01,228 637.68,242.24 615.53,257.01 612.89,269.67 544.67,304.13 "
            style="fill:url(#bd)"
            id="polygon196" />
         <g
@@ -856,11 +879,11 @@
              style="fill:#b7f9ff"
              id="rect199" />
           <polygon
-             points="313.7,258.07 286.8,235.92 282.58,240.4 305.27,258.86 307.11,268.62 313.7,268.62 "
+             points="313.7,268.62 313.7,258.07 286.8,235.92 282.58,240.4 305.27,258.86 307.11,268.62 "
              style="fill:#ffffff"
              id="polygon199" />
           <polygon
-             points="323.46,194.77 320.63,194.94 320.23,197.61 339.48,216.6 344.32,217.91 343.51,212.71 "
+             points="343.51,212.71 323.46,194.77 320.63,194.94 320.23,197.61 339.48,216.6 344.32,217.91 "
              style="fill:#ffffff"
              id="polygon200" />
           <rect
@@ -918,11 +941,11 @@
              style="fill:#b7f9ff"
              id="rect204" />
           <polygon
-             points="607.88,258.07 634.78,235.92 639,240.4 616.32,258.86 614.47,268.62 607.88,268.62 "
+             points="607.88,268.62 607.88,258.07 634.78,235.92 639,240.4 616.32,258.86 614.47,268.62 "
              style="fill:#ffffff"
              id="polygon204" />
           <polygon
-             points="598.12,194.77 600.95,194.94 601.35,197.61 582.1,216.6 577.26,217.91 578.07,212.71 "
+             points="578.07,212.71 598.12,194.77 600.95,194.94 601.35,197.61 582.1,216.6 577.26,217.91 "
              style="fill:#ffffff"
              id="polygon205" />
           <rect
@@ -946,11 +969,11 @@
            d="m 707.83,306.68 c 6.68,0 17.27,2.33 21.69,6.83 9.91,10.1 18.74,23.18 23.28,39.72 h -89.94 c 0,-25.71 20.13,-46.55 44.97,-46.55 z"
            id="path206" />
         <polygon
-           points="216.84,334.7 216.84,319.27 389.86,301.4 383.12,319.27 "
+           points="216.84,319.27 389.86,301.4 383.12,319.27 216.84,334.7 "
            style="fill-rule:evenodd"
            id="polygon206" />
         <polygon
-           points="704.74,334.7 704.74,319.27 531.73,301.4 538.47,319.27 "
+           points="704.74,319.27 531.73,301.4 538.47,319.27 704.74,334.7 "
            style="fill-rule:evenodd"
            id="polygon207" />
         <path
@@ -974,11 +997,11 @@
                style="fill:#ffffff"
                id="rect208" />
             <polygon
-               points="215.34,356.13 215.34,371.56 390.83,368.2 384,350.32 "
+               points="215.34,371.56 390.83,368.2 384,350.32 215.34,356.13 "
                style="fill:url(#linearGradient250);fill-rule:evenodd"
                id="polygon208" />
             <polygon
-               points="706.25,356.13 706.25,371.56 530.75,368.2 537.58,350.32 "
+               points="706.25,371.56 530.75,368.2 537.58,350.32 706.25,356.13 "
                style="fill:url(#bl);fill-rule:evenodd"
                id="polygon209" />
           </g>
@@ -995,7 +1018,7 @@
             <g
                id="bp">
               <polygon
-                 points="342.02,347.51 340.41,327.15 368.31,327.15 368.31,347.51 "
+                 points="340.41,327.15 368.31,327.15 368.31,347.51 342.02,347.51 "
                  id="polygon210" />
               <rect
                  x="340.39001"
@@ -1028,7 +1051,7 @@
                  style="fill:none;stroke:#ffffff;stroke-width:6px;stroke-miterlimit:10"
                  id="line212" />
               <polygon
-                 points="579.56,347.51 581.17,327.15 553.27,327.15 553.27,347.51 "
+                 points="581.17,327.15 553.27,327.15 553.27,347.51 579.56,347.51 "
                  id="polygon212" />
               <line
                  x1="553.37"
@@ -1097,11 +1120,11 @@
                style="fill:#ffffff;fill-rule:evenodd"
                id="path221" />
             <polygon
-               points="290.77,357.34 285.81,316.64 293.48,315.71 298.47,356.67 "
+               points="285.81,316.64 293.48,315.71 298.47,356.67 290.77,357.34 "
                style="fill-rule:evenodd"
                id="polygon221" />
             <polygon
-               points="630.81,357.34 635.78,316.64 628.1,315.71 623.11,356.67 "
+               points="635.78,316.64 628.1,315.71 623.11,356.67 630.81,357.34 "
                style="fill-rule:evenodd"
                id="polygon222" />
           </g>
@@ -1155,11 +1178,11 @@
            style="fill:#16ffff"
            id="circle229" />
         <polygon
-           points="443.36,237.66 450.56,252.24 457.76,252.08 457.76,237.14 "
+           points="450.56,252.24 457.76,252.08 457.76,237.14 443.36,237.66 "
            style="fill:url(#linearGradient252)"
            id="polygon229" />
         <polygon
-           points="478.22,237.66 471.02,252.24 463.82,252.08 463.82,237.14 "
+           points="471.02,252.24 463.82,252.08 463.82,237.14 478.22,237.66 "
            style="fill:url(#bs)"
            id="polygon230" />
         <circle
@@ -1169,22 +1192,22 @@
            style="fill:none;stroke:#ffffff;stroke-width:5px;stroke-miterlimit:10"
            id="circle230" />
         <polygon
-           points="288.58,339.34 290.77,357.34 267.41,359.14 265.34,342.17 "
+           points="290.77,357.34 267.41,359.14 265.34,342.17 288.58,339.34 "
            style="fill:url(#linearGradient253);fill-rule:evenodd"
            id="polygon231" />
         <polygon
-           points="633.01,339.34 630.81,357.34 654.17,359.14 656.24,342.17 "
+           points="630.81,357.34 654.17,359.14 656.24,342.17 633.01,339.34 "
            style="fill:url(#bu);fill-rule:evenodd"
            id="polygon232" />
       </g>
       <g
          id="bv">
         <polygon
-           points="481.8,416.3 461.76,416.3 441.71,416.3 444.09,529.8 461.76,529.8 479.43,529.8 "
+           points="479.43,529.8 481.8,416.3 461.76,416.3 441.71,416.3 444.09,529.8 461.76,529.8 "
            style="fill:#81f7fe;fill-rule:evenodd"
            id="polygon233" />
         <polygon
-           points="479.43,408 461.76,408 444.09,408 447.27,529.8 461.76,529.8 476.25,529.8 "
+           points="476.25,529.8 479.43,408 461.76,408 444.09,408 447.27,529.8 461.76,529.8 "
            style="fill:url(#bw);fill-rule:evenodd"
            id="polygon234" />
       </g>
@@ -1218,23 +1241,23 @@
                id="path236" />
           </g>
           <polygon
-             points="474.59,540.48 460.79,540.48 446.99,540.48 446.99,543.38 460.79,543.38 474.59,543.38 "
+             points="474.59,543.38 474.59,540.48 460.79,540.48 446.99,540.48 446.99,543.38 460.79,543.38 "
              style="fill:#ffffff;fill-rule:evenodd"
              id="polygon236" />
         </g>
       </g>
       <polygon
-         points="468.66,409.17 460.79,409.17 452.92,409.17 452.92,425.16 460.79,425.16 468.66,425.16 "
+         points="468.66,425.16 468.66,409.17 460.79,409.17 452.92,409.17 452.92,425.16 460.79,425.16 "
          style="fill:#ffffff"
          id="polygon237" />
       <g
          id="by">
         <polygon
-           points="294.42,323.4 298.47,356.67 331.55,353.95 326.02,319.67 "
+           points="298.47,356.67 331.55,353.95 326.02,319.67 294.42,323.4 "
            style="fill:#4a3a98;fill-rule:evenodd"
            id="polygon238" />
         <polygon
-           points="627.16,323.4 623.11,356.67 590.03,353.95 595.57,319.67 "
+           points="623.11,356.67 590.03,353.95 595.57,319.67 627.16,323.4 "
            style="fill:#4a3a98;fill-rule:evenodd"
            id="polygon239" />
       </g>
@@ -1268,11 +1291,11 @@
         </g>
       </g>
       <polygon
-         points="468.66,443.66 460.79,443.66 452.92,443.66 453.89,494.46 460.79,494.46 467.69,494.46 "
+         points="467.69,494.46 468.66,443.66 460.79,443.66 452.92,443.66 453.89,494.46 460.79,494.46 "
          style="fill:#ffffff"
          id="polygon244" />
       <polygon
-         points="467.79,516.66 460.79,516.66 453.8,516.66 454.66,519.91 460.79,519.91 466.93,519.91 "
+         points="466.93,519.91 467.79,516.66 460.79,516.66 453.8,516.66 454.66,519.91 460.79,519.91 "
          style="fill:#ffffff"
          id="polygon245" />
     </g>
